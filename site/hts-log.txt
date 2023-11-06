@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Nov 2023 19:18:14 at https://tema2.dokuzyazilim.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://tema2.dokuzyazilim.com/ -O1 "C:\Users\abdul\Desktop\HTTRACK\site3\site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:20:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://tema2.dokuzyazilim.com/index.php?p=Products&get_special_price=1
+19:20:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://tema2.dokuzyazilim.com/index.php?p=Cities&no_common=1&opts=
+19:21:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tema2.dokuzyazilim.com/u/tema2/banners/a/u/n/unnamed-1652737364.jpg (from https://tema2.dokuzyazilim.com/)
+19:25:46	Warning: 	Found for https://tema2.dokuzyazilim.com/?p=AfilMembers
+19:25:46	Warning: 	File has moved from https://tema2.dokuzyazilim.com/?p=AfilMembers to https://tema2.dokuzyazilim.com/index.php?p=Login&return_url=PIFVf4eTh68LCP10XcAGEL3TM0Y3p0Gmwl17nNg2JOBlKR%2FaL3NaYG0KFCVMIYKep79RzX4DClGjmvhptw1ZgA%3D%3D
+19:47:50	Warning: 	Retry after error -2 (Receive Time Out) at link https://tema2.dokuzyazilim.com/u/tema2/img/c/s/e/seeka-yoga-yoga-pilates-mati-morocco-10-adetf1fa398180b9b5a8548eb8846c7fa189.png (from https://tema2.dokuzyazilim.com/seeka-yoga-yoga-pilates-mati-morocco-10-adet)
+19:48:47	Warning: 	Retry after error -2 (Receive Time Out) at link https://tema2.dokuzyazilim.com/u/tema2/img/b/m/a/mantar-yuzeyli-dogal-kaucuk-yoga-mati-no-planet41904e6ab3dbfd90cad46c4f035dc451.png (from https://tema2.dokuzyazilim.com/mantar-yuzeyli-dogal-kaucuk-yoga-mati-no-planet)
+19:48:57	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://tema2.dokuzyazilim.com/index.php?p=Favorites&add=362939&fav_type=prd&popup=1&no_common=1 (from https://tema2.dokuzyazilim.com/halasana-gumus-yoga-figur-sari-deri-kolye)
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 minutes 44 seconds : 4063 links scanned, 4057 files written (279110338 bytes overall) [239234453 bytes received at 111583 bytes/sec], 55379066 bytes transferred using HTTP compression in 2118 files, ratio 23%, 12.9 requests per connection
+(No errors, 8 warnings, 0 messages)
